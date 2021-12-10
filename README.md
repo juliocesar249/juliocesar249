@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- No momento não trabalho, apenas estou estudando
+- No momento não trabalho, apenas estou estudando e criando projetos para praticar;
+- Estou me aprofundando primeiramente em front-end e melhorando minha lógica;
