@@ -1,20 +1,11 @@
-### Opa, bão?
-
-<!--
-**juliocesar249/juliocesar249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Opa, bão?
 
 - No momento não trabalho, apenas estou estudando e criando projetos para praticar;
 - Estou me aprofundando primeiramente em front-end e melhorando minha lógica, mas pretendo aprender back-end depois, ou seja, me tornar um fullstack;
--`Ele/Dele`
+- `Ele/Dele`
+
+### Projetos
+**Eu vou deixar os que eu mais _gostei_ de fazer, mas, acessando os [meus repositórios](https://github.com/juliocesar249?tab=repositories) você consegue ver todos.**
+- [JKtchen](https://juliocesar249.github.io/JKitchen/)
+- [Texditor](https://juliocesar249.github.io/Texditor)
+- [Photy](https://juliocesar249.github.io/Photy)
