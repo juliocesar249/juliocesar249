@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 - No momento não trabalho, apenas estou estudando e criando projetos para praticar;
 - Estou me aprofundando primeiramente em front-end e melhorando minha lógica, mas pretendo aprender back-end depois, ou seja, me tornar um fullstack;
 
