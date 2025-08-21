@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 - No momento não trabalho, apenas estou estudando e criando projetos para praticar;
-- 1º Semestre de Sistemas da Informação
+- 2º Semestre de Sistemas da Informação
 
 
 ## 🌐 Socials:
