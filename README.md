@@ -2,7 +2,7 @@
 
 - Me chamo Júlio :)
 - Atualmente estou cursando 2º semestre de SI
-- Comecei a me interessar por essa área em 2021 e desde lá venho estudando para melhorar meus conhecimentos
+- Comecei a me interessar por essa área em 2021 e desde lá venho estudando e praticando
 - Em busca da minha primeira oportunidade na área
 
 # 💻 Tech Stack:
