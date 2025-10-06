@@ -6,6 +6,8 @@
 - Em busca da minha primeira oportunidade na área
 
 # 💻 Tech Stack:
+<div style="display: flex; align-items: center; gap: .6rem">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50"/>
@@ -17,6 +19,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50"/>
+
+</div>
 
 # 📊 Stats:
 
